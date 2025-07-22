@@ -207,3 +207,5 @@ https://owasp.org/www-community/attacks/SQL_Injection
 https://portswigger.net/support/sql-injection-bypassing-common-filters
 https://code.google.com/archive/p/teenage-mutant-ninja-turtles/wikis/BasicObfuscation.wiki
 https://johnermac.github.io/notes/ewptx/sqlievasion/
+https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html
+https://www.owasp.org/index.php/Testing_for_NoSQL_injection
