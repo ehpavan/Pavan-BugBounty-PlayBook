@@ -194,6 +194,11 @@ Regex Filter: /union\sselect/g
 http://victim.com/news.php?id=1+UnIoN/**/SeLecT/**/1,2,3--
 `
 
+> **Don't Blindly Paste the Payloads, First Fingerprint the application and understand then use the payloads accordingly if any WAF OR Firewall there try Different Test cases discussed above to  Bypass the the WAF**
+
+---
+
+
 References:
 
 https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
