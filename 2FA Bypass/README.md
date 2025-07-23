@@ -17,3 +17,5 @@
 <p>
   when the user prompted for login after entering credentials, the app asks for otp the capturing the request while entering the otp revealed the JWT(JSON WEB TOKEN) was leaked before entering the otp. Eventually allows an attacker to  accesss all endpoints via token this is classic 2fa bypass that often seen in web apps.
 </p>
+
+MORE TO COME STAY TUNED !
