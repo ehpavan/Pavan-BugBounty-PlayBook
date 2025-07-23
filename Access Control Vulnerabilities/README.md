@@ -57,8 +57,12 @@ X-Original-URL: /admin
 ```
 HTTP/1.1 200 OK
 
-### use of URL ENCODE (.)
+### use of url encode (.)
 https://host.com/path = 403 Forbidden
 https://host.com/%2e/path = 200 OK
+> Note use Different Encoding to bypass such restrictions
 
 
+
+### Please Refer The Mind Map attached to Repository 
+[MINDMAP FOR IDOR](https://github.com/ehpavan9x/Pavan-BugBounty-PlayBook/blob/main/Access%20Control%20Vulnerabilities/IDOR%20Techniques.png)
