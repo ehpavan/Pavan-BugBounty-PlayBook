@@ -117,6 +117,7 @@ X-Remote-Addr
 X-Client-IP
 ```
 ### Values:
+```
 127.0.0.1 (or anything in the 127.0.0.0/8 or ::1/128 address spaces)
 localhost
 **Any RFC1918 address:**
@@ -124,6 +125,7 @@ localhost
 172.16.0.0/12
 192.168.0.0/16
 Link local addresses: 169.254.0.0/16
+```
 
 # Rate Limit / WAF Bypass
 * Use multiple IPs / TOR / Proxies
