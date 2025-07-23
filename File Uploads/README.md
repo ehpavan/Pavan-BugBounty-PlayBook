@@ -130,3 +130,13 @@ Content-Type: image/jpeg
 ```
   ➤ But the file is actually PHP code!
 
+References:
+
+https://portswigger.net/web-security/file-upload
+https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload
+https://www.intigriti.com/researchers/blog/hacking-tools/insecure-file-uploads-a-complete-guide-to-finding-advanced-file-upload-vulnerabilities
+https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
+https://github.com/KathanP19/HowToHunt/blob/master/File_Upload/file_upload.md
+https://www.yeswehack.com/learn-bug-bounty/file-upload-attacks-part-1
+
+
