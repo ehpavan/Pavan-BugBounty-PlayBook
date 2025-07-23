@@ -70,10 +70,16 @@ If there's an open redirect:
 
 References:
 https://portswigger.net/web-security/csrf/
+
 https://owasp.org/www-community/attacks/csrf
+
 https://www.cobalt.io/blog/csrf-bypasses
+
 https://bugbase.ai/blog/how-to-bypass-csrf-protection
+
 https://www.intigriti.com/researchers/blog/hacking-tools/csrf-a-complete-guide-to-exploiting-advanced-csrf-vulnerabilities
+
 https://johnermac.github.io/notes/ewptx/csrf/
+
 https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
 
