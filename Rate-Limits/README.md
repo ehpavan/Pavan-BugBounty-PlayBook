@@ -5,6 +5,12 @@
 Rotate User-Agent, Referer, Origin
 
 Use random X-Forwarded-For, X-Real-IP, Client-IP
+## DownGrade Or UpGrade the HTTP version
+-> from http1.1 - http2.0
+-> from http2.0 - http1.1
+-> from http1.0 - http 2.0
+-> from http2.0 - http3.0
+-> from http1.1 - http1.0
 
 ## Alter URL Slightly
 
