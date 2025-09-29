@@ -56,9 +56,7 @@ amass intel -active -asn [ASN_NUMBER]
 ```
 ## Discover IPs via APIs
 ``
-
 curl -s "https://www.virustotal.com/vtapi/v2/domain/report?apikey=$your-key&domain=$your-domain" \ | jq -r '.resolutions[]?.ip_address'
-
 ``
 ## Discover Live Hosts
 ```
